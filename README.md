@@ -1,5 +1,5 @@
 # casauto-user-preferences
 run 
 composer install
-npm start 
-npm build
+npm run start 
+npm run build
